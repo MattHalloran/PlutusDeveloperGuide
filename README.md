@@ -1,4 +1,25 @@
-# Plutus Pioneer Program
+# Plutus Development Guide
+The goal of this repository is to be a single resource for development with Plutus. It covers:
+- Setting up the Plutus Playground,
+- Plutus Pioneers resources, with homework solutions
+- Alonzo testnet and exercises
+- Alternatives to Plutus development
+
+## Quick Links
+- [Cardano main resource guide](https://github.com/MattHalloran/CardanoResources)
+
+## Plutus Pioneers Program
+- [Plutus Playground website](https://playground.plutus.iohkdev.io/) (**VERY OUTDATED**)
+- [Installation](docs/PlaygroundInstall.md)
+- [Lectures: YouTube](https://www.youtube.com/channel/UCcAwSpbpQDDzEDRQqcDH8Iw/videos)
+- [Lecture guide: ReadTheDocs](https://plutus-pioneer-program.readthedocs.io/en/latest/plutus_pioneer_program.html)
+- [Cohort 1 class photo](https://pool.pm/d068fe47123ec4c86460eeb74c7d7765c67d2df295a3ac86d664ed45.PlutusFirstClassPhoto288)
+
+## Alonzo testnet
+- [Easiest installation (in my opinion): Docker](https://docs.cardano.org/getting-started/installing-the-cardano-node)
+- [Creating and funding test wallet]()
+- [Exercises and resources](https://github.com/input-output-hk/Alonzo-testnet)
+- [Alonzo walkthrough: ReadTheDocs](https://plutus-pioneer-program.readthedocs.io/en/latest/alonzo.html)
 
 ## Lectures
 
